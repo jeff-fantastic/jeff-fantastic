@@ -1,7 +1,7 @@
 # Hi there. I'm Jefftastic.
 
 - 💿 18
-- 🍃 I enjoy nature and coffee
+- 🍃 I enjoy hiking, camping and burgers
 - 🎮 Game developer of 7 years, still going
 - 📚 Interested in and actively pursuing web and software development
 
