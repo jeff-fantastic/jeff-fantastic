@@ -1,6 +1,7 @@
 # Hi there. I'm Jefftastic.
 
 - 💿 18
+- 🐧 Debian 12 user
 - 🍃 I enjoy hiking, camping and burgers
 - 🎮 Game developer of 7 years, still going
 - 📚 Interested in and actively pursuing web and software development
@@ -24,21 +25,3 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-%25FFFFFF?style=for-the-badge&logo=javascript&logoColor=%23FFFFFF&labelColor=%23F7DF1E&color=%23F7DF1E)
 ![Node.js](https://img.shields.io/badge/Node.js-%25FFFFFF?style=for-the-badge&logo=nodedotjs&logoColor=%23FFFFFF&labelColor=%23339933&color=%23339933)
 ![Fortran](https://img.shields.io/badge/Fortran-%25FFFFFF?style=for-the-badge&logo=fortran&logoColor=%23FFFFFF&labelColor=%23734F96&color=%23734F96)
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-
-<!--
-**jeff-fantastic/jeff-fantastic** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
