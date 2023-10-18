@@ -2,9 +2,12 @@
 
 - 💿 18
 - 🐧 Debian 12 user
-- 🍃 I enjoy hiking, camping and burgers
-- 🎮 Game developer of 7 years, still going
-- 📚 Interested in and actively pursuing web and software development
+- 🖥️ Massive geek for all tech, new and old
+- ⛰️ I also enjoy going on hikes, camping trips, and urban exploration
+- 🎮 Amateur programmer and game designer of 7 years, looking to break into the industry through talent and passion for my craft
+- 🧠 Prioritizing consumer-oriented development philosophies in all of my games and tools
+- 🧹 Currently working a cleaning gig, part-time working on my videogame Newman Network: Channel 64
+
 
 ### I am great with...
 ![C](https://img.shields.io/badge/C-%25FFFFFF?style=for-the-badge&logo=c&logoColor=%23FFFFFF&labelColor=%23A8B9CC&color=%23A8B9CC)
