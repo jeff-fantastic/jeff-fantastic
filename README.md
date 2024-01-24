@@ -6,7 +6,7 @@
 - ⛰️ I also enjoy going on hikes, camping trips, and urban exploration
 - 🎮 Amateur programmer and game designer of 7 years, looking to break into the industry through talent and passion for my craft
 - 🧠 Prioritizing consumer-oriented development philosophies in all of my games and tools
-- 🧹 Currently working a cleaning gig, part-time working on my videogame Newman Network: Channel 64
+- ❌ Currently unemployed, working on Newman Network: Channel 64
 
 
 ### I am great with...
