@@ -1,7 +1,7 @@
 # Hi there. I'm Jefftastic.
 
 - 💿 18
-- 🐧 Fedora 39 user (Sorry Debian...)
+- 🐧 Debian 12 user (THE GOAT IS BACK)
 - 🖥️ Massive geek for all tech, new and old
 - ⛰️ I also enjoy going on hikes, camping trips, and urban exploration
 - 🎮 Amateur programmer and game designer of 7 years, looking to break into the industry through talent and passion for my craft
