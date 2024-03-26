@@ -1,12 +1,12 @@
 # Hi there. I'm Jefftastic.
 
-- 💿 18
-- 🐧 Debian 12 user (THE GOAT IS BACK)
+- 💿 19
+- 🐧 Fedora 39 user (Goodbye again Debian)
 - 🖥️ Massive geek for all tech, new and old
 - ⛰️ I also enjoy going on hikes, camping trips, and urban exploration
-- 🎮 Amateur programmer and game designer of 7 years, looking to break into the industry through talent and passion for my craft
+- 🎮 Amateur programmer and game designer of 8 years!
 - 🧠 Prioritizing consumer-oriented development philosophies in all of my games and tools
-- ❌ Currently unemployed, working on Newman Network: Channel 64
+- 🦀 Doing odd jobs; studying Java, MySQL, and DSA; looking for work! 😄
 
 
 ### I am great with...
@@ -17,9 +17,10 @@
 ![VB](https://img.shields.io/badge/Visual_Basic-%25FFFFFF?style=for-the-badge&logo=visualbasic&logoColor=%23FFFFFF&labelColor=%23512BD4&color=%23512BD4)
 
 ### I am partially familiar with...
+![Java](https://img.shields.io/badge/-OpenJDK%208%2C%2017%20(Java)-%23000000?style=for-the-badge&logo=openjdk)
 ![C++](https://img.shields.io/badge/C%2B%2B-%25FFFFFF?style=for-the-badge&logo=cplusplus&logoColor=%23FFFFFF&labelColor=%2300599C&color=%2300599C)
+![MySQL](https://img.shields.io/badge/-MySQL-%234479A1?style=for-the-badge&logo=mysql)
 ![Lua](https://img.shields.io/badge/Lua-%25FFFFFF?style=for-the-badge&logo=lua&logoColor=%23FFFFFF&labelColor=%232C2D72&color=%232C2D72)
-![Construct3](https://img.shields.io/badge/Construct_3-%25FFFFFF?style=for-the-badge&logo=construct3&logoColor=%23FFFFFF&labelColor=%2300FFDA&color=%2300FFDA)
 ![HTML5](https://img.shields.io/badge/HTML5-%25FFFFFF?style=for-the-badge&logo=html5&logoColor=%23FFFFFF&labelColor=%23E34F26&color=%23E34F26)
 ![CSS3](https://img.shields.io/badge/CSS-%25FFFFFF?style=for-the-badge&logo=css3&logoColor=%23FFFFFF&labelColor=%231572B6&color=%231572B6)
 
